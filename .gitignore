@@ -1,0 +1,7 @@
+yellow_tripdata_2020-01.csv
+yellow_tripdata_2020-01.parquet
+Include
+Lib
+Scripts
+output
+pyvenv.cfg
